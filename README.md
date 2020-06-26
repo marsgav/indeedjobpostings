@@ -11,11 +11,16 @@ Using Python to draw insights from job postings to see which positions are avail
 
 ### Attached files:
 datascience.csv- 365 job postings
+
 ml.csv- 511 job postings
+
 nlp.csv- 183 job postings
+
 unstructdata.csv- 186 job postings
+
 allindeedjobs.csv- merged csvs with duplicates removed 975 jobs total
-indeedjobsanalysis.ipynb 
+
+indeedjobsanalysis.ipynb - Jupyter NB with code, explanations and visualizations
 
 
 
